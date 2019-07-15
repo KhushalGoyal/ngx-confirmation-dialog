@@ -11,7 +11,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
   
 
-Directive to be used very time if you want to delete or edit a record from table or anythwhere you want. You can customize the button name also.
+Directive to be used every time if you want to delete or edit a record from table or anythwhere you want. You can customize the button name also.
 
   
 
