@@ -76,6 +76,6 @@ Directive | Description | Default
 --- | --- | ---
  m-confirmation-message | Message which is to be shown on the dialog box | Are you sure ?
   m-confirmation-message-ok | Button text to be shown on dialog | Ok 
- confirm | Call back event emitter is user press "Ok" | delete_(this) 
+ confirm | Call back event emitter if user press "Ok" | delete_(this) 
 
 *Note :* Default method "delete_" should be declared in ts file of the component / module.
